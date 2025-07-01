@@ -9,7 +9,7 @@ env:
   LOCATION: east1
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 2aaae665-7d47-4e8c-b14f-35b19e844808
-  WEBAPP-NAME: eshoponweb-webapp-bhv_DG4
+  WEBAPP-NAME: eshoponweb-webapp-bhvDG4
 
 
 jobs:
